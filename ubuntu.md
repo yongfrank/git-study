@@ -19,4 +19,4 @@ Thu Jul 14 11:48 MAC
 
 11:53 Ubuntu
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
